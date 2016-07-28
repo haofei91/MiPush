@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\PushDemoMIUI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mipush_logo.png",
+        "source": "D:\\PushDemoMIUI\\app\\src\\main\\res\\drawable-hdpi\\mipush_logo.png"
+    },
+    {
+        "merged": "D:\\PushDemoMIUI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\PushDemoMIUI\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\PushDemoMIUI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_custom_notify.png",
+        "source": "D:\\PushDemoMIUI\\app\\src\\main\\res\\drawable-hdpi\\ic_custom_notify.png"
+    }
+]

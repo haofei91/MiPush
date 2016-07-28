@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\PushDemoMIUI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_notify.xml",
+        "source": "D:\\PushDemoMIUI\\app\\src\\main\\res\\layout\\custom_notify.xml"
+    },
+    {
+        "merged": "D:\\PushDemoMIUI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\PushDemoMIUI\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\PushDemoMIUI\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_time_dialog.xml",
+        "source": "D:\\PushDemoMIUI\\app\\src\\main\\res\\layout\\set_time_dialog.xml"
+    }
+]

@@ -1,0 +1,2 @@
+CHANGED,D:\PushDemoMIUI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\test\com\yu\DemoMessageReceiver$override.class
+CHANGED,D:\PushDemoMIUI\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

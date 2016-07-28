@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\PushDemoMIUI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\PushDemoMIUI\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\PushDemoMIUI\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\mipush_logo.png",
+        "source": "D:\\PushDemoMIUI\\app\\src\\main\\res\\drawable-mdpi\\mipush_logo.png"
+    }
+]
